@@ -18,5 +18,6 @@
 | Power        | 3.3V / GND   |
 
 ---
-
+## Screenshots
 ![8eaa9e08b750433ca5e687d81b3b5557](https://github.com/user-attachments/assets/b6a6ca5b-e307-44dc-8cea-ea473618b03a)
+![52935da1bf9a478abc8def417dab6ec9](https://github.com/user-attachments/assets/92b48daa-2706-40b3-84e1-a3c3686e507c)
